@@ -31,3 +31,18 @@ section#likes article {
     min-width: 15rem;
     max-width: 30rem;
 }
+
+/* DEMOS --------------------- */
+
+section.demo div {
+    display: flex;
+    gap: 1rem;
+    background-color: #6666;
+    padding: 1rem;
+}
+
+section.demo div p {
+    font-size: 5rem;
+    background-color: aqua;
+    padding: 1rem;
+}
